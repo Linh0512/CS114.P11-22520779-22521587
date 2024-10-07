@@ -11,17 +11,21 @@
 
 ## **CS114.P11- MACHINE LEARNING - UIT**
 
-### Giáo viên hướng dẫn
-
-Họ tên | Email
---- | --- 
-PGS.TS. Lê Đình Duy | duyld@uit.edu.vn
-Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
-
+### Giới thiệu môn học
+<a name="gioithieumonhoc"></a>
+* **Tên môn học**: Máy học - MACHINE LEARNING
+* **Mã môn học**: CS114
+* **Lớp học**: CS114.P11
+* **Năm học**: 2024-2025
 
 ### Các thành viên của nhóm:
 Họ tên | MSSV | Email | GitHub
 --- | --- | -- | --
 Trần Qui Linh (Trưởng nhóm) | 22520779 | 20520779@gm.uit.edu.vn | https://github.com/Linh0512
 
+### Giáo viên hướng dẫn
 
+Họ tên | Email
+--- | --- 
+PGS.TS. Lê Đình Duy | duyld@uit.edu.vn
+Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
