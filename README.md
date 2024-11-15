@@ -9,29 +9,23 @@
 
 
 
-## **SE104.P11- Software Engineering - UIT**
+## **CS114.P11- MACHINE LEARNING - UIT**
 
 ### Giới thiệu môn học
 <a name="gioithieumonhoc"></a>
-* **Tên môn học**: SE104.P11- Software Engineering
-* **Mã môn học**: SE104
-* **Lớp học**: SE104.P11
-* **Đề tài**: Quản lý gara Oto
+* **Tên môn học**: Máy học - MACHINE LEARNING
+* **Mã môn học**: CS114
+* **Lớp học**: CS114.P11
 * **Năm học**: 2024-2025
 
-### NHÓM 14
-## Các thành viên của nhóm:
-Họ tên | MSSV | Email |
---- | --- | -- |
-Trần Qui Linh (Trưởng nhóm) | 22520779 | 20520779@gm.uit.edu.vn |
-Mai Dương	| 22520302 | 22520302@gm.uit.edu.vn |
-Võ Chính Hiệu |	22520449 | 22520449@gm.uit.edu.vn |
-Phan Trung Kiên	| 22520710 | 22520710@gm.uit.edu.vn |
-Đào Duy Khánh	| 22520632 | 22520632@gm.uit.edu.vn |
-
+### Các thành viên của nhóm:
+Họ tên | MSSV | Email | GitHub
+--- | --- | -- | --
+Trần Qui Linh (Trưởng nhóm) | 22520779 | 20520779@gm.uit.edu.vn | https://github.com/Linh0512
 
 ### Giáo viên hướng dẫn
 
 Họ tên | Email
 --- | --- 
-ĐỖ THỊ THANH TUYỀN | tuyendtt@uit.edu.vn
+PGS.TS. Lê Đình Duy | duyld@uit.edu.vn
+Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
