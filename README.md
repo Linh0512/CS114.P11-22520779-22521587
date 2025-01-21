@@ -21,7 +21,8 @@
 ### Các thành viên của nhóm:
 Họ tên | MSSV | Email | GitHub
 --- | --- | -- | --
-Trần Qui Linh (Trưởng nhóm) | 22520779 | 20520779@gm.uit.edu.vn | https://github.com/Linh0512
+Trần Qui Linh | 22520779 | 20520779@gm.uit.edu.vn | https://github.com/Linh0512
+Trương Phúc Trường | 22521587 | 22521587@gm.uit.edu.vn |
 
 ### Giáo viên hướng dẫn
 
